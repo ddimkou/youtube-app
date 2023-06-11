@@ -36,7 +36,7 @@ function Feed() {
           Copyright 2023 Dimkou Dimitrios
         </Typography>
       </Box>
-      <Box p={2} sx={{ overlowY: "auto", height: "90vh", flex: 2 }}>
+      <Box p={2} sx={{ overflowY: "auto", height: "90vh", flex: 2 }}>
         <Typography
           variant="h4"
           fontWeight="bold"
