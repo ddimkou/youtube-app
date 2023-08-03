@@ -1,5 +1,5 @@
 # **This is a follow up tutorial of Javascript Mastery:**
-* https://www.youtube.com/watch?v=FHTbsZEJspU&t=1390s&ab_channel=JavaScriptMastery
+* https://www.youtube.com/watch?v=dyFVwXROzZk&t=8413s&ab_channel=JavaScriptMastery 1st project
 * https://www.jsmastery.pro/
 * https://github.com/adrianhajdin
 
