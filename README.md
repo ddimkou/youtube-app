@@ -4,7 +4,7 @@
 * https://github.com/adrianhajdin
 
 
-#Youtube-app
+# Youtube-app
 
 This project is a React app that allows users to explore and watch videos. It utilizes the YouTube Data API to fetch video data and display it in an organized manner.
 
