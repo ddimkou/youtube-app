@@ -1,4 +1,10 @@
-# Youtube-app
+# **This is a follow up tutorial of Javascript Mastery:**
+* https://www.youtube.com/watch?v=FHTbsZEJspU&t=1390s&ab_channel=JavaScriptMastery
+* https://www.jsmastery.pro/
+* https://github.com/adrianhajdin
+
+
+#Youtube-app
 
 This project is a React app that allows users to explore and watch videos. It utilizes the YouTube Data API to fetch video data and display it in an organized manner.
 
